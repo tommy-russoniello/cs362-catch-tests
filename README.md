@@ -1,2 +1,2 @@
 # cs362-catch-tests
-Test files I wrote for data structures course grading. Uses Catch2 framework.
+Some test files I wrote as a grader for a data structures course. Tests use [Catch2](https://github.com/catchorg/Catch2) C++ framework.
